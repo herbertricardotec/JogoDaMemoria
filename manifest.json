@@ -1,0 +1,17 @@
+{
+  "name": "Bichinhos da Memória",
+  "short_name": "Bichinhos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#f0fdf4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
